@@ -1,8 +1,9 @@
 /*This is a comment*/
 body
 {
-background-color:blue;
+background-color:blue; /*if image fails*/
 font-family:Helvetica;
 color:black;
 font-size:72pt;
+background-image: url('restaurant.png');   
 }
